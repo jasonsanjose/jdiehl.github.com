@@ -10,6 +10,16 @@
 		}
 	},
 	{
+		"name": "github",
+		"title": "GitHub",
+		"description": "Adding the GitHub API to Brackets",
+		"url": "https://github.com/jrowny/brackets-github",
+		"repository": {
+			"type": "git",
+			"url": "git://github.com/jrowny/brackets-github.git"
+		}
+	},
+	{
 		"name": "markdown",
 		"title": "Markdown",
 		"description": "Display comment blocks with rendered markdown",
