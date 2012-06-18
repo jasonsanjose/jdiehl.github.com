@@ -1,15 +1,5 @@
 [
 	{
-		"name": "annotate",
-		"title": "JSDoc Annotate",
-		"description": "A brackets extension to generate JSDoc annotations for your functions",
-		"url": "https://github.com/davidderaedt/annotate-extension",
-		"repository": {
-			"type": "git",
-			"url": "git://github.com/davidderaedt/annotate-extension.git"
-		}
-	},
-	{
 		"name": "appcache-buddy",
 		"title": "App Cache Buddy",
 		"description": "A brackets extension to generate & validate application cache manifests",
@@ -27,6 +17,16 @@
 		"repository": {
 			"type": "git",
 			"url": "git://github.com/jrowny/brackets-github.git"
+		}
+	},
+	{
+		"name": "annotate",
+		"title": "JSDoc Annotate",
+		"description": "A brackets extension to generate JSDoc annotations for your functions",
+		"url": "https://github.com/davidderaedt/annotate-extension",
+		"repository": {
+			"type": "git",
+			"url": "git://github.com/davidderaedt/annotate-extension.git"
 		}
 	},
 	{
