@@ -10,6 +10,16 @@
 		}
 	},
 	{
+		"name": "debugger",
+		"title": "Debugger",
+		"description": "This extension adds debugging capabilities to Brackets",
+		"url": "https://github.com/jdiehl/brackets-debugger",
+		"repository": {
+			"type": "git",
+			"url": "git://github.com/jdiehl/brackets-debugger.git"
+		}
+	},
+	{
 		"name": "github",
 		"title": "GitHub",
 		"description": "Adding the GitHub API to Brackets",
