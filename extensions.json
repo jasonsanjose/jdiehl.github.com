@@ -10,6 +10,16 @@
 		}
 	},
 	{
+		"name": "csslint",
+		"title": "CSSLint",
+		"description": "Provides CSSLint support for your documents",
+		"url": "https://github.com/cfjedimaster/brackets-csslint",
+		"repository": {
+			"type": "git",
+			"url": "git://github.com/cfjedimaster/brackets-csslint.git"
+		}
+	},
+	{
 		"name": "debugger",
 		"title": "Debugger",
 		"description": "This extension adds debugging capabilities to Brackets",
@@ -42,7 +52,7 @@
 	{
 		"name": "jshint",
 		"title": "JSHint",
-		"description": "A Brackets extension to enable JSHint support",
+		"description": "Provides JSHint support for your documents",
 		"url": "https://github.com/cfjedimaster/brackets-jshint",
 		"repository": {
 			"type": "git",
