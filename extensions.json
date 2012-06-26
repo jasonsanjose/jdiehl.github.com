@@ -102,7 +102,7 @@
 	{
 		"name": "ReloadInBrowser",
 		"title": "Reload in Browser",
-		"description": "Adds a toolbar button and shortcut to reload the page in the browser",
+		"description": "Toolbar button and shortcut to reload the page in the browser (press Command-Shift-R)",
 		"url": "https://github.com/DennisKehrig/brackets.ReloadInBrowser/",
 		"repository": {
 			"type": "git",
@@ -112,7 +112,7 @@
 	{
 		"name": "snippets",
 		"title": "Snippets",
-		"description": "A brackets snippets extension",
+		"description": "Expands snippets, i.e. d ⇒ <div></div> (press Ctrl-Shift-S to see available snippets, Ctrl-Alt-S to insert a snippet)",
 		"url": "https://github.com/jrowny/brackets-snippets",
 		"repository": {
 			"type": "git",
@@ -122,7 +122,7 @@
 	{
 		"name": "StringConvert",
 		"title": "StringConvert",
-		"description": "String conversion extension for the Adobe Brackets Web Editor",
+		"description": "String conversions like \"To Upper Case\", \"HTML Entity Encode\", \"Toggle Quotes\" and more (select text, click Edit > To Upper Case)",
 		"url": "https://github.com/mikechambers/StringConvert",
 		"repository": {
 			"type": "git",
@@ -131,8 +131,8 @@
 	},
 	{
 		"name": "tabtospace",
-		"title": "Tab to space",
-		"description": "A brackets extension to convert tabs to spaces and vice versa",
+		"title": "Tab to Space",
+		"description": "Converts tabs to spaces and vice versa (click File > Convert tabs to spaces)",
 		"url": "https://github.com/davidderaedt/tabtospace-extension",
 		"repository": {
 			"type": "git",
@@ -142,7 +142,7 @@
 	{
 		"name": "togist",
 		"title": "ToGist",
-		"description": "Creates a Github Gist from the current text selection (Select text, click Edit > Create Gist)",
+		"description": "Creates a Github Gist from the current text selection (select text, click Edit > Create Gist)",
 		"url": "https://github.com/davidderaedt/togist",
 		"repository": {
 			"type": "git",
@@ -152,7 +152,7 @@
 	{
 		"name": "w3cvalidation",
 		"title": "W3C Validation",
-		"description": "Enables live W3C validation (click View > Enable W3CValidation)",
+		"description": "Validates the current file when saving, using the W3C validator (click View > Enable W3CValidation)",
 		"url": "https://github.com/cfjedimaster/brackets-w3cvalidation",
 		"repository": {
 			"type": "git",
