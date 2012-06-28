@@ -80,6 +80,16 @@
 		}
 	},
 	{
+		"name": "phonegapbuild",
+		"title": "PhoneGap Build",
+		"description": "The goal: get web projects from Brackets into a mobile application",
+		"url": "https://github.com/tpryan/brackets-phonegapbuild",
+		"repository": {
+			"type": "git",
+			"url": "git://github.com/tpryan/brackets-phonegapbuild.git"
+		}
+	},
+	{
 		"name": "prefixr",
 		"title": "Prefixr",
 		"description": "A small brackets extension to replace the current CSS text selection with the prefixed result returned by Prefixr",
