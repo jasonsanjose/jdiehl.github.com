@@ -110,6 +110,16 @@
 		}
 	},
 	{
+		"name": "ShowIndentations",
+		"title": "Show Indentations",
+		"description": "Visualizes indentations like Sublime Text does (click View > Show Indentations)",
+		"url": "https://github.com/DennisKehrig/brackets-show-indentations",
+		"repository": {
+			"type": "git",
+			"url": "git://github.com/DennisKehrig/brackets-show-indentations.git"
+		}
+	},
+	{
 		"name": "snippets",
 		"title": "Snippets",
 		"description": "Expands snippets, i.e. d ⇒ <div></div> (press Ctrl-Shift-S to see available snippets, Ctrl-Alt-S to insert a snippet)",
