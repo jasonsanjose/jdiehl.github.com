@@ -120,6 +120,17 @@
 		}
 	},
 	{
+		"name": "RelatedFiles",
+		"title": "Related Files",
+		"description": "Discovers and allows you to open related files in your project",
+		"url": "https://github.com/jhatwich/brackets-related-files",
+		"repository": {
+			"type": "git",
+			"url": "git://github.com/jhatwich/brackets-related-files.git"
+
+		}
+	},
+	{
 		"name": "ReloadInBrowser",
 		"title": "Reload in Browser",
 		"description": "Toolbar button and shortcut to reload the page in the browser (press Command-Shift-R)",
