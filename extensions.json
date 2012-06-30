@@ -32,7 +32,7 @@
 	{
 		"name": "everyscrub",
 		"title": "Everyscrub",
-		"description": "Everything's a scrubber! Cmd/Ctrl + drag on any number or hex color to scrub its value.",
+		"description": "Everything's a scrubber! Cmd/Ctrl + drag horizontally on any number or hex color to scrub its value.",
 		"url": "https://github.com/peterflynn/everyscrub",
 		"repository": {
 			"type": "git",
