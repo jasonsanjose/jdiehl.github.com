@@ -10,6 +10,16 @@
 		}
 	},
 	{
+		"name": "color-picker",
+		"title": "Color Picker",
+		"description": "Edit hex colors with an inline color picker",
+		"url": "https://github.com/jdiehl/brackets-color-picker",
+		"repository": {
+			"type": "git",
+			"url": "git://github.com/jdiehl/brackets-color-picker.git"
+		}
+	},
+	{
 		"name": "csslint",
 		"title": "CSSLint",
 		"description": "Provides CSSLint support for your documents",
