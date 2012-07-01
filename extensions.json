@@ -1,5 +1,15 @@
 [
 	{
+		"name": "v8-node-live",
+		"title": "Node.js/V8 Live Editing",
+		"description": "This extension maintains a live connection to a Node.js/V8 debugger.",
+		"url": "https://github.com/DennisKehrig/brackets-v8-node-live",
+		"repository": {
+			"type": "git",
+			"url": "git://github.com/DennisKehrig/brackets-v8-node-live.git"
+		}
+	},
+	{
 		"name": "appcache-buddy",
 		"title": "App Cache Buddy",
 		"description": "A brackets extension to generate & validate application cache manifests",
