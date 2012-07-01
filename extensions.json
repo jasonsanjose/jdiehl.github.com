@@ -1,15 +1,5 @@
 [
 	{
-		"name": "000test",
-		"title": "App Cache Buddy",
-		"description": "A brackets extension to generate & validate application cache manifests",
-		"url": "https://github.com/davidderaedt/appcache-gen",
-		"repository": {
-			"type": "git",
-			"url": "git://github.com/davidderaedt/appcache-gen.git"
-		}
-	},
-	{
 		"name": "appcache-buddy",
 		"title": "App Cache Buddy",
 		"description": "A brackets extension to generate & validate application cache manifests",
