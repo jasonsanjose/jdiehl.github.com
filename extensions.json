@@ -10,6 +10,16 @@
 		}
 	},
 	{
+		"name": "code-aging",
+		"title": "Code Aging",
+		"description": "Code Aging Visualization",
+		"url": "https://github.com/jdiehl/brackets-code-aging",
+		"repository": {
+			"type": "git",
+			"url": "git://github.com/jdiehl/brackets-code-aging.git"
+		}
+	},
+	{
 		"name": "color-picker",
 		"title": "Color Picker",
 		"description": "Edit hex colors with an inline color picker",
