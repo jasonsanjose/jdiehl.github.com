@@ -229,5 +229,15 @@
 			"type": "git",
 			"url": "git://github.com/cfjedimaster/brackets-w3cvalidation.git"
 		}
+	},
+	{
+		"name": "brackets-inline-color-editor",
+		"title": "Inline Color Editor",
+		"description": "A html/css/js based inline color editor wrapped up as an extension for Brackets",
+		"url": "https://github.com/GarthDB/brackets-inline-color-editor",
+		"repository": {
+			"type": "git",
+			"url": "git://github.com/GarthDB/brackets-inline-color-editor.git"
+		}
 	}
 ]
